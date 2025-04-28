@@ -5,7 +5,7 @@ It answers several important questions based on the spread, deaths, and recoveri
 
 📄 **Dataset**
 - **File Name**: covid_19_data.xlsx
-- 
+
 - **Description**: The dataset contains information on confirmed, deaths, and recovered COVID-19 cases across various regions.
 
 **Problem Statements Solved**
